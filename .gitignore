@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+# C#
+[Oo]bj
+[Bb]in
+
+# npm
+node_modules
+
+# log files
+*.log
